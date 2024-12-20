@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Socxenophone
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there, I'm Socxenophone!
 
-<!---
-Socxenophone/Socxenophone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and collaborating on exciting projects.
+
+## 🚀 About Me
+
+- 💻 I'm experienced in various programming languages including Python, JavaScript, and C++.
+- 🌱 Currently, I'm focusing on learning more about cloud computing and DevOps practices.
+- 🎓 I have a background in Computer Science and have worked on numerous projects in web development, data science, and software engineering.
+- 💬 Ask me about anything tech-related, I'm always up for a good discussion!
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, C++, Java, SQL
+- **Frameworks:** React, Node.js, Django, Flask
+- **Tools:** Git, Docker, Kubernetes, Jenkins, AWS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+## 📈 GitHub Stats
+
+![Socxenophone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socxenophone&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Socxenophone&layout=compact&theme=radical)
+
+  
+
+## 👀 Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Socxenophone.Socxenophone)
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
