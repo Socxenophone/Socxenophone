@@ -1,13 +1,11 @@
-# 👋 Hi there, I'm Socxenophone!
+      Hi, I'm Socxenophone! 
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and collaborating on exciting projects.
 
-## 🚀 About Me
-
-- 💻 I'm experienced in various programming languages including Python, JavaScript, and C++.
-- 🌱 Currently, I'm focusing on learning more about cloud computing and DevOps practices.
-- 🎓 I have a background in Computer Science and have worked on numerous projects in web development, data science, and software engineering.
-- 💬 Ask me about anything tech-related, I'm always up for a good discussion!
+![Socxenophone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socxenophone&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Socxenophone&layout=compact&theme=radical)
+- I'm experienced in some programming languages e.g C, Python, JavaScript, and C++.
+-  I'm focusing on learning more about cloud computing.
+  - Ask me about anything tech or history related, I'm always up for a good discussion!
 
 ## 🛠️ Technologies & Tools
 
@@ -16,10 +14,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 - **Tools:** Git, Docker, Kubernetes, Jenkins, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
-## 📈 GitHub Stats
 
-![Socxenophone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socxenophone&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Socxenophone&layout=compact&theme=radical)
+
+
 
   
 
