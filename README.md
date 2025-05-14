@@ -1,6 +1,6 @@
 ![e672c0c9-4030-4c68-a167-bd34418bf537](https://github.com/user-attachments/assets/810fe620-b120-4742-927c-5469fd58bf6f)
 
-      Hi, I'm Socxenophone! 
+      Hi, I'm Mogal! 
       and I like foxes 
 
 
@@ -12,7 +12,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, Java, SQL
+- **Languages:** Python, C JavaScript, C++, Java, SQL
 - **Frameworks:** React, Node.js, Django, Flask
 - **Tools:** Git, Docker, Kubernetes, Jenkins, AWS
 - **Databases:** MySQL, PostgreSQL, MongoDB
