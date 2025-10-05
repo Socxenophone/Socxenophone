@@ -1,7 +1,7 @@
 ![e672c0c9-4030-4c68-a167-bd34418bf537](https://github.com/user-attachments/assets/810fe620-b120-4742-927c-5469fd58bf6f)
 
-      Hi, I'm Mogal! 
-      and I like foxes 
+      Hi,
+      I like foxes 
 
 
 ![Socxenophone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Socxenophone&show_icons=true&theme=radical)
